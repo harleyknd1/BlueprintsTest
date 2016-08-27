@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.11",
+	"Category": "Samples",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Substance",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/2f6439c2f9584f49809d9b13b16c2ba4"
+		},
+		{
+			"Name": "CreaturePackPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/442925bb7f9541319366ab2d902c0c45"
+		},
+		{
+			"Name": "FixItNotePlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/753fba93b8ef4a6a8a1fbcd77f68bfaa"
+		},
+		{
+			"Name": "LowEntryExtendedStandardLibrary",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/846c2ad08f164f45b0335ecebf85361e"
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor",
+		"MacNoEditor"
+	],
+	"EpicSampleNameHash": "2118947570"
+}
